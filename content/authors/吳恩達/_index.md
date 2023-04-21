@@ -1,10 +1,10 @@
 ---
 # Display name
-title: 吳恩達
+title: 王少华
 
 # Username (this should match the folder name)
 authors:
-  - 吳恩達
+  - 王少华
 
 # Is this the primary user of the site?
 superuser: false
@@ -14,7 +14,7 @@ role: Professor of Artificial Intelligence
 
 # Organizations/Affiliations
 organizations:
-  - name: Stanford University
+  - name: Aerospace Information Research Institute.
     url: ''
 
 # Short bio (displayed in user profile at end of posts)
